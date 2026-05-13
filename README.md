@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mustafa Nadeem! 👋
 
-### 🚀 Senior Full Stack Engineer | AI/LLM Agent Systems | 6+ Years Experience
+### 🚀 Senior Full Stack Engineer | AI/LLM Agent Systems | 8+ Years Experience
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;LangGraph+%7C+Multi-Agent+Systems;RAG+Pipelines+%7C+LLM+Workflows;Python+%7C+Django+%7C+FastAPI;React+%7C+Angular+%7C+TypeScript;PostgreSQL+%7C+Redis+%7C+Celery" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 ## 🎯 About Me
 
-> Full Stack Engineer & AI/LLM Agent Systems specialist with **6+ years** of experience building scalable web applications. I have hands-on production experience integrating GenAI capabilities including multi-agent orchestration with LangGraph, RAG pipelines, prompt engineering, and LLM-based workflows. Strong background in Python, Django, FastAPI, and React/TypeScript, with a focus on delivering clean, maintainable, and reliable systems.
+> Full Stack Engineer & AI/LLM Agent Systems specialist with **8+ years** of experience building scalable web applications. I have hands-on production experience integrating GenAI capabilities including multi-agent orchestration with LangGraph, RAG pipelines, prompt engineering, and LLM-based workflows. Strong background in Python, Django, FastAPI, and React/TypeScript, with a focus on delivering clean, maintainable, and reliable systems.
 
 - 🔭 Currently building **AI agent systems and full stack features at Xref**
 - 🤖 Deep hands-on with **LangGraph, RAG pipelines, multi-agent supervisor routing**
