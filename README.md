@@ -147,9 +147,9 @@
 
 | Period | Role | Company |
 |--------|------|---------|
-| Aug 2023 – Present | Senior Full Stack Developer | Xref (Remote) |
+| Aug 2023 – Mar 2026 | Senior Full Stack Developer | Xref (Remote) |
 | Aug 2021 – Aug 2023 | Full Stack Developer | Cheetay Logistics (Lahore) |
-| Feb 2019 – Jul 2021 | Junior Full Stack Developer | Fiverivers Tech (Lahore) |
+| Feb 2018 – Jul 2021 | Junior Full Stack Developer | Fiverivers Tech (Lahore) |
 
 ### 🎯 Key Expertise Areas
 
